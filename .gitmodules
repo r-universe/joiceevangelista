@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "saeHB.gpois"]
+	path = saeHB.gpois
+	url = https://github.com/joiceevangelista/saehb.gpois
+	shallow = true
+	registered = true
